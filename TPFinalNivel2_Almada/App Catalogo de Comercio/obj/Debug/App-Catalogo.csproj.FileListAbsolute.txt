@@ -1,0 +1,19 @@
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\bin\Debug\App Catalogo de Comercio.exe.config
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\bin\Debug\App Catalogo de Comercio.exe
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\bin\Debug\App Catalogo de Comercio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App-Catalogo.csproj.AssemblyReference.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App_Catalogo_de_Comercio.frmArticulos.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App_Catalogo_de_Comercio.Properties.Resources.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App-Catalogo.csproj.GenerateResource.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App-Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App Catalogo de Comercio.exe
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App Catalogo de Comercio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App_Catalogo_de_Comercio.frmAltaArticulo.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\bin\Debug\datos.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\bin\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\bin\Debug\datos.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\bin\Debug\dominio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App-Catalogo.csproj.CopyComplete
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App_Catalogo_de_Comercio.frmPapelera.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App_Catalogo_de_Comercio.frmMarcas.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\TPFinalNivel2_Almada\App Catalogo de Comercio\obj\Debug\App_Catalogo_de_Comercio.frmCategorias.resources
